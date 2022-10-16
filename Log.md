@@ -7,6 +7,7 @@ Ultima atualizacao [link](https://mega.nz/file/Q41wxQAa#TjzyRjbo_G8jIcpwu3UquXIh
 ###- Definir Horario para aplicacar
 ###- Definir estrutura de quando utilizar
 	V1.1(Pendente)
+
 ###- Relatorio de compra e venda
 ###- ...
 
